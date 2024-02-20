@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "puresteel-b5a43": {
+      "hosting": {
+        "Angular-Puresteel": [
+          "puresteel-b5a43"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "puresteel-b5a43"
+  }
+}

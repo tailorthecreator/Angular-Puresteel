@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "Angular-Puresteel",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

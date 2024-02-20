@@ -1,0 +1,21 @@
+/* For larger screens */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust the space between cards */
+  }
+  
+  .card {
+    flex: 0 0 calc(33.33% - 20px); /* 3 cards in a row, deducting gap */
+    max-width: calc(33.33% - 20px); /* Responsive width */
+    /* Additional styles for your card */
+  }
+  
+  @media (max-width: 767px) {
+    /* For smaller screens (mobile) */
+    .card {
+      flex: 0 0 calc(100% - 20px); /* Full width, deducting gap */
+      max-width: calc(100% - 20px); /* Responsive width */
+    }
+  }
+  

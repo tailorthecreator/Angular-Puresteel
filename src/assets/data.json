@@ -1,0 +1,9 @@
+[
+    {"name": "Plain Sheets and Heavy Gauge", "description": "These are rectangular tubes"},
+    {"name": "Rigid Steel Conduit Pipe (RSC)", "description": "Durable, strong, and ideal for protecting electrical wiring in demanding environments."},
+    {"name": "Rectangular Tubes", "description": "Tubings are cylinders with a rectangular cross-section. It is used mainly as a pathway for substances which can flow."},
+    {"name": "Plain Sheets", "description": "Mild steel plates are made of low carbon steel that is neither hard nor brittle. The low carbon steel with grade from 1005 to 1025."},
+    {"name": "C-Purlins", "description": "Purlins are often used as a horizontal structural member in a roof that helps support the roof deck or cladding"},
+    {"name": "Corrugated Sheets", "description": "TResilient, rippled panels ideal for roofing, siding, and packaging applications, offering strength and flexibility."},
+    {"name": "Square Tubes", "description": "The box shape allows for greater strength and rigidity. It is widely used in industrial maintenance, agriculture and transportation equipment."}
+]

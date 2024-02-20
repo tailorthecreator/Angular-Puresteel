@@ -1,0 +1,7 @@
+.backgroundImage{
+    background-image: url('/assets/img/Puresteel-Hero-Image.png');
+    background-size: cover; /* Adjust this as needed */
+    background-position: center; /* Adjust this as needed */
+    opacity: 20%;
+  }
+
